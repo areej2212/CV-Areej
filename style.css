@@ -30,6 +30,7 @@ body {
     padding-top: 70px;
 }
 /*       BUTTONS             */
+
 .dark-mode-btn,
 #download-btn {
     z-index: 1000;
@@ -38,7 +39,6 @@ body {
     font-size: 16px;
     transition: all 0.3s ease;
 }
-
 .dark-mode-btn {
     position: fixed;
     top: 10px;

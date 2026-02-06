@@ -13,4 +13,6 @@ Technologies Used:
 Features:
 - Interactive portfiolio + complete CV
 - Contact Form
+
+  
 link: https://areej-cv.vercel.app/
